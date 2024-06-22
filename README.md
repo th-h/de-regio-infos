@@ -1,4 +1,4 @@
-# Additional information on German (language) regional Usenet hierarchies
+# Additional information for the DE-regio project
 
 This repository contains additional information on German (language) (regional) Usenet hierarchies that will be incorpated into the list of those hierarchies at <https://de-regio.de/>.
 
